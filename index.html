@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+<body>
+
+<div id="container">
+
+    <h1>Tasklist</h1>
+    <form id="task-form">
+        <input type="text" id="task-input" placeholder="What needs to be done?">
+        <button type="submit">Add</button>
+    </form>
+    <ul id="task-list"></ul>
+    <div id="error-message"></div>
+    <div id="testi">
+        <label for="filter">Show:</label>
+        <select id="filter">
+            <option value="all">All</option>
+            <option value="active">Active</option>
+            <option value="completed">Completed</option>
+        </select>
+    </div>
+    <div id="task-counter">Active tasks: 0</div>
+
+</div>
+    
+    <script src="./scripts/script.js"></script>
+</body>
+</html>
