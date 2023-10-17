@@ -15,6 +15,8 @@ Sähköiset
 
     JavaScript Tutorial 2023. JavaScript Checkbox. Viitattu 6.10.2023. https://www.javascripttutorial.net/javascript-dom/javascript-checkbox/
 
+    Raspberry Pi 2023. Save the list. Viitattu 14.10.2023. https://projects.raspberrypi.org/en/projects/cd-intermediate-javascript-sushi/6
+    
     Stack Overflow 2023. Making a counter in JavaScript To-do app. Viitattu 6.10.2023. https://stackoverflow.com/questions/51972480/making-a-counter-in-javascript-to-do-app
 
     Tutorials Tonight. To Do List Javascript. Viitattu 3.10.2023. https://www.tutorialstonight.com/to-do-list-javascript
